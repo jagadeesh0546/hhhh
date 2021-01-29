@@ -3,4 +3,6 @@
 ### head 2
 # Display data as italic
 this is **italic**
+# Display data as bold
+this is **bold**
 
