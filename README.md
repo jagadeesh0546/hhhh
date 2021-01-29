@@ -6,7 +6,7 @@ this is **italic**
 # Display data as bold
 this is **bold**
 
-#ml code
+# ml code
  
  import numpy
  
