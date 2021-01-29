@@ -7,7 +7,7 @@ this is **italic**
 this is **bold**
 # ml code
  
- import numpy
- import pandas
- df=p.Dataframe({"0ne":[1,2,3]})
- df.head()
+  import numpy
+  import pandas
+  df=pd.Dataframe({"0ne":[1,2,3]})
+  df.head()
